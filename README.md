@@ -14,7 +14,7 @@ CS at Illinois Tech ('27, 3.95 GPA) in Chicago. I build full-stack and AI system
 Tells students if they're eligible for a job posting, citing the exact sentence behind every verdict. 4,200+ postings from 6 ATS platforms, LLM extraction with verified quotes.
 <sub>Next.js · TypeScript · Supabase · Claude</sub>
 
-**[Scribbet](https://github.com/Majidraza12/Scribbet)**
+**[Scribbet](https://github.com/Majidraza12/Scribbet)** · [live](https://scribbet.vercel.app)
 Local-first Windows dictation in Rust. Whisper on your own GPU, 183 ms p50 finalize, zero cloud.
 <sub>Rust · Tauri · Svelte · whisper.cpp · Vulkan</sub>
 
