@@ -22,9 +22,9 @@ Local-first Windows dictation in Rust. Whisper on your own GPU, 183 ms p50 final
 DSA practice platform with sandboxed auto-grading for 150 problems, an AI coach, and Stripe billing.
 <sub>Next.js · Supabase · Judge0 · Stripe · Claude</sub>
 
-**[Sentinel](https://github.com/Majidraza12/incident-detection-project)**
+**[Sentinel](https://github.com/Majidraza12/Sentinel)**
 Violence detection in surveillance video. 90% accuracy, plus an ablation showing the LSTM didn't beat mean-pooling.
-<sub>PyTorch · FastAPI · React</sub>
+<sub>PyTorch · Streamlit</sub>
 
 ---
 
