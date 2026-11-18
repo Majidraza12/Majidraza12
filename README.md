@@ -24,7 +24,7 @@ DSA practice platform with sandboxed auto-grading for 150 problems, an AI coach,
 
 **[Sentinel](https://github.com/Majidraza12/Sentinel)**
 Violence detection in surveillance video. 90% accuracy, plus an ablation showing the LSTM didn't beat mean-pooling.
-<sub>PyTorch · Streamlit</sub>
+<sub>PyTorch · FastAPI · React · Docker</sub>
 
 ---
 
