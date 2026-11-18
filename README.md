@@ -29,9 +29,6 @@ Violence detection in surveillance video. 90% accuracy, plus an ablation showing
 ---
 
 <img src="https://skillicons.dev/icons?i=ts,py,rust,java,postgres,nextjs,react,svelte,tauri,supabase,pytorch,docker,githubactions&perline=13" alt="TypeScript, Python, Rust, Java, PostgreSQL, Next.js, React, Svelte, Tauri, Supabase, PyTorch, Docker, GitHub Actions" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majidraza12/Majidraza12/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majidraza12/Majidraza12/output/github-snake.svg" />
