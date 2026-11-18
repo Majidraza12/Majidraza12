@@ -4,7 +4,7 @@ CS at Illinois Tech ('27, 3.95 GPA) in Chicago. I build full-stack and AI system
 
 <a href="https://majidraza-portfolio-site.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/majid-raza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=majidraza.bss@gmail.com"><img src="https://img.shields.io/badge/majidraza.bss%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: majidraza.bss@gmail.com"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=majidraza.bss@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 **Open to 2027 new-grad SWE roles** · backend, full-stack, applied AI
 
